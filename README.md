@@ -1,6 +1,6 @@
 # To-Do List
 ## To-Do List Exercise
-<img src="todolistimage.png" width='300'/><br>
+<img src="todolist.png" width='300'/><br>
 This web page shows a to-do list. Items can be written out and added to the list and clicked on to be removed from the list. This exercise demonstrates my ability to create a styled to-do list in React.
 To run this on your machine, you’ll need all of these files and you’ll need to load the .html file on your browser.
 Additional functionality that would be helpful to a user for future iterations would be to add due dates to the to-do list that track in real-time and let a user know if a to-do item is due soon or past due.<br><br>
